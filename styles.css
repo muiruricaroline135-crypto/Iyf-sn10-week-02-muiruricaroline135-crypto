@@ -67,3 +67,22 @@ nav a:hover { color: var(--accent); }
   object-fit: cover;
   border: 3px solid #00ff66;
 }
+
+.projects {
+  padding: 80px 20px;
+  text-align: center;
+}
+
+.project-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 20px;
+  margin-top: 40px;
+}
+
+.project-card {
+  background: white;
+  padding: 25px;
+  border-radius: 15px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
