@@ -1,7 +1,7 @@
-Caroline Muiruri - CSS Portfolio
+Caroline Muiruri - Portfolio
 
 
-Welcome to my CSS portfolio! This repository showcases my skills in CSS, responsive design, and web layout, demonstrating how I create visually appealing and user-friendly web pages.
+Welcome to MY portfolio! This repository showcases my skills in CSS, responsive design, and web layout, demonstrating how I create visually appealing and user-friendly web pages.
 
 ABOUT ME
 
