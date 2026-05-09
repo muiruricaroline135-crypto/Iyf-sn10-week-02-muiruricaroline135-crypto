@@ -1,39 +1,91 @@
-Caroline Muiruri - Portfolio
+# 👩🏽‍💻 Caroline Muiruri – Portfolio
 
-Welcome to MY portfolio! This repository showcases my skills in CSS, responsive design, and web layout, demonstrating how I create visually appealing and user-friendly web pages.
- 
-I am a;
+Welcome to my portfolio repository!  
+This project showcases my journey in web development, highlighting my skills in frontend development, responsive design, and creating clean, user-friendly interfaces.
 
-- 💻 Software Developer
-- 🌱 Currently learning Web Development  
-- 🚀 Working on my Portfolio
-- 🎯 Goal : Become a professional frontend developer
+I enjoy building modern and visually appealing web applications while continuously improving my coding skills and learning new technologies.
+
 ---
 
-## My Skills
+## 🚀 About Me
 
-## Skills
-![HTML](https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode)
+Hi! I’m **Caroline Muiruri**, a passionate and growing frontend developer with a strong interest in creating responsive and interactive web experiences.
 
-### Frontend
-- HTML | CSS | JavaScript
+I am currently focused on improving my skills in modern web development and building projects that combine functionality with great user experience.
 
-### Backend
+### 🌟 What I Do
+- 💻 Software Developer  
+- 🌱 Currently learning Web Development  
+- 🚀 Building personal and collaborative projects  
+- 🎯 Aspiring Frontend Developer  
 
-ABOUT ME
+---
 
-Hi! I’m Caroline Muiruri, a web enthusiast passionate about crafting clean and responsive web designs. This portfolio reflects my journey in mastering CSS and creating projects that are both functional and visually engaging.
+## 🛠️ Skills & Technologies
 
-How to View My Portfolio
+### Frontend Development
+- HTML5
+- CSS3
+- JavaScript
 
-Clone this repository:
+### Tools & Platforms
+- Git
+- GitHub
+- VS Code
 
+### Currently Learning
+- React.js
+- Responsive Web Design
+- Modern UI/UX Practices
+
+![Skills](https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode)
+
+---
+
+## 📂 Projects
+
+This portfolio contains projects that demonstrate:
+- Responsive web layouts
+- Clean and structured CSS styling
+- Interactive web pages
+- Modern design techniques
+- Beginner-friendly frontend applications
+
+More projects will be added as I continue learning and growing as a developer.
+
+---
+
+## 🌐 How to View My Portfolio
+
+### Clone the Repository
+
+```bash
 git clone https://github.com/muiruricaroline135-crypto/Iyf-sn10-week-02-muiruricaroline135-crypto.git
-Open index.html in your browser.
-Explore the projects and CSS effects!
+```
 
-CONTACT ME
+### Open the Project
+1. Navigate to the project folder
+2. Open `index.html` in your browser
+3. Explore the portfolio and projects
 
-Feel free to reach out via:
-Email:  muiruricaroline135@gmail.com
-GitHub: https://github.com/muiruricaroline135-crypto
+---
+
+## 📫 Contact Me
+
+Feel free to connect with me:
+
+- 📧 Email: muiruricaroline135@gmail.com
+- 💻 GitHub: https://github.com/muiruricaroline135-crypto
+
+---
+
+## ✨ Future Goals
+
+- Learn React and modern frontend frameworks
+- Build full-stack applications
+- Contribute to open-source projects
+- Grow into a professional frontend engineer
+
+---
+
+> “Every expert developer started as a beginner. I’m committed to learning, building, and improving every day.”
